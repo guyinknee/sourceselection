@@ -4,7 +4,7 @@
 import streamlit as st
 import pandas as pd
 # Add logo
-st.image('C:\\Users\\gaini\\master\\logo.png', use_column_width=False, width=600, clamp=True, channels='RGB', output_format='auto')
+st.image('logo.png', use_column_width=False, width=600, clamp=True, channels='RGB', output_format='auto')
 
 # Streamlit code to create the web interface
 st.title('Flexibility in source water selection: multi-criteria decision analysis')
